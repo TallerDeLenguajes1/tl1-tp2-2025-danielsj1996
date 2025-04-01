@@ -5,3 +5,11 @@ No se puede ver el archivo ya que pertenece a la rama Opcion_2.
 En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
 
 Aparece diferenciada el main con la rama Opcion_2 en el grafico y que ahora estoy parado en un commit nuevo creado en la rama main.
+
+En el Branch main se va a combinar (merge) ambos repositorios. Para esto, utilice
+el siguiente comando:
+o git merge Opcion_2 -m "merge Opcion_2" → combinamos
+main con Opcion_2
+● En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+
+en este caso podemos notar que se agrega el archivo tp2_1_2 que estaba anteriormente solo en la rama Opcion_2.
