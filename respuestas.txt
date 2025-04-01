@@ -1,3 +1,7 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 
 No se puede ver el archivo ya que pertenece a la rama Opcion_2.
+
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+
+Aparece diferenciada el main con la rama Opcion_2 en el grafico y que ahora estoy parado en un commit nuevo creado en la rama main.
